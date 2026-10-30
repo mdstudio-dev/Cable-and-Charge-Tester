@@ -1,27 +1,36 @@
-# Privacy Policy - Cable & Charge Tester
-_Last updated: October 2026_
+Privacy Policy
+Effective Date: October 30, 2026
 
-**Contact:** fezdecor@gmail.com
+App: Cable and Charge Tester
 
-## Data stored on your device
-Cable & Charge Tester saves the test results you choose to save (cable name, result, time) locally on your device only.
-We do not operate a remote server and do not collect or store your personal test data.
+Developer / Studio: ouayat studio
 
-## Permissions
-The app does not request sensitive personal permissions. It uses internet access strictly for displaying advertisements.
+1. Overview
+At ouayat studio, we respect your privacy. Cable and Charge Tester is designed to test battery charging performance, cable stability, and battery health locally on your device. We do not collect, store, or sell your personal information on any external server.
 
-## Advertising (Google AdMob)
-The app displays advertisements served by Google AdMob. Google and its partner networks may collect and use device identifiers (such as the Advertising ID), IP address, and interaction data to serve ads and measure ad performance.
-Learn more: https://policies.google.com/technologies/partner-sites
+2. Data Collection and Usage
+All battery diagnostics, voltage, charging current, cycle count, and test benchmark history are stored strictly locally on your device using local DataStore and JSON files. This data never leaves your phone.
 
-## Consent (GDPR / EEA, UK)
-If you are located in the European Economic Area (EEA) or the UK, the app prompts you for consent prior to serving personalized ads, using Google's User Messaging Platform (UMP). You can review or change your ad consent choices at any time within the app under **About > Privacy & ad choices**.
+3. Third-Party Services & Advertising
+The app uses third-party services that may collect information used to identify your device for advertisement serving and consent management:
 
-## Children
-This app is not directed to children under 13 (or 16 where applicable).
+Google AdMob: Used for displaying advertisements (banner and interstitial ads). AdMob may collect device advertising IDs, IP addresses, and non-sensitive diagnostic logs for ad serving.
+Google User Messaging Platform (UMP): Used for GDPR and EEA privacy consent management.
+For more details, please visit Google's Privacy Policy.
 
-## Your Rights
-Under data protection regulations (such as GDPR), you have the right to access, correct, or delete your data and withdraw consent. Because all saved test history is kept locally on your device, you can clear it anytime within the app. For data processed by Google AdMob, please refer to Google's privacy policy: https://policies.google.com/privacy
+4. Permissions
+The app requires the following standard Android permissions solely for functional diagnostic operations:
 
-## Changes
-We may update this Privacy Policy from time to time. The "Last updated" date at the top will reflect any changes.
+INTERNET & ACCESS_NETWORK_STATE: Required for AdMob ad serving and GDPR consent checks.
+USB Host / OTG Access: Used locally to detect attached USB peripherals and OTG compatibility.
+5. Children's Privacy
+This application is not directed at children under the age of 13. We do not knowingly collect personal information from children.
+
+6. Security
+Because all diagnostic and test history data remain on your local device, your benchmark data is as secure as your personal device.
+
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+
+8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, contact us at: fezdecor@gmail.com
